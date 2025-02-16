@@ -1,0 +1,14 @@
+{
+    "experiences": [
+        {
+            "title": "FrontEnd Developer",
+            "subtitle": "IBM pvt Ltd.",
+            "workType": "Full-time",
+            "workDescription": [
+                "Developed reusable UI components, improving development efficiency across teams.",
+                "Spearheaded performance optimization initiatives, leading to a 25% improvement in application response times"
+            ],
+            "dateText": "11/2020 – Present"
+        }
+    ]
+}

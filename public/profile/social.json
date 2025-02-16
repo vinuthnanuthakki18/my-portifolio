@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/nuthakki-vinuthna/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/vinuthnanuthakki18"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:nuthakki.vinuthna@gmail.com"
+        }
+    ]
+}
